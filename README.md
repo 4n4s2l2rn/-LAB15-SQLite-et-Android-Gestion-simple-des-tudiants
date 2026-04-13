@@ -11,7 +11,10 @@ Ce projet est une application Android permettant de gérer une liste d'étudiant
 
 ## 📽️ Démonstration Vidéo
 *Voici un aperçu du fonctionnement de l'application (Ajout, Recherche, Suppression) :*
-![Démo de l'application](media/lab15.gif)
+<div align="center">
+  <h2>📽️ Démonstration du Lab</h2>
+  <img src="media/lab15.gif" alt="Démo de l'application" width="350">
+</div>
 
 ## 🚀 Fonctionnalités (CRUD)
 * **Create** : Ajouter un étudiant via un formulaire.
