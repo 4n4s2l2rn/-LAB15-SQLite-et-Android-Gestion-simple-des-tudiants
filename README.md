@@ -12,7 +12,7 @@ Ce projet est une application Android permettant de gérer une liste d'étudiant
 ## 📽️ Démonstration Vidéo
 *Voici un aperçu du fonctionnement de l'application (Ajout, Recherche, Suppression) :*
 <div align="center">
-  <video src="media/lab15.mp4" width="300" controls>
+  <video src="media/lab15.gif" width="300" controls>
     Votre navigateur ne supporte pas la lecture de vidéos.
   </video>
 </div>
